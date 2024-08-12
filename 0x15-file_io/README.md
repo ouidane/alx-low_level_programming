@@ -1,6 +1,6 @@
-# 0x15. C - File
+## 0x15. C - File I/O
 
-## Resources:
+### Resources:
 
 ### Read or watch:
 
