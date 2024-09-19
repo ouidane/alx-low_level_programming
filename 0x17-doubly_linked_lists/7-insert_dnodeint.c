@@ -6,7 +6,7 @@
  * @idx: Index where the new node should be inserted (starting from 0).
  * @n: Data (integer) to insert in the new node.
  *
- * Return: Address of the new node, or NULL if it failed or idx is out of range.
+ * Return: Address of the new node, or NULL.
  */
 dlistint_t *insert_dnodeint_at_index(dlistint_t **h, unsigned int idx, int n)
 {
