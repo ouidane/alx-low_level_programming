@@ -2,8 +2,7 @@
 """Module to calculate the perimeter of an island in a grid."""
 
 def island_perimeter(grid):
-    """
-    Calculate the perimeter of an island in a grid.
+    """Calculate the perimeter of an island in a grid.
 
     Args:
         grid (list): A 2D grid represents an island.
